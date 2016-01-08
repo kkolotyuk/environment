@@ -1,0 +1,24 @@
+[user]
+    name = K.Kolotyuk
+    email = konstantin.kolotyuk@gmail.com
+[color]
+    diff = auto
+    status = auto
+    branch = auto
+    ui = true
+[core]
+    editor = vim
+[alias]
+    ad = add
+    br = branch
+    cfg = config
+    co = checkout
+    mrg = merge
+    rb = rebase
+    rs = reset
+    sh = stash
+    st = status
+    ci = commit
+[push]
+    default = current
+
